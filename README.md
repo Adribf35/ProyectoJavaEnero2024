@@ -1,2 +1,12 @@
-# ProyectoJavaEnero2024
-Tarea 4_3_2_Control de Versiones de Git en NetBeans
+package ejemplojava2024;
+
+/**
+ *
+ * @author Adrián
+ */
+public class EjemploJava2024 {
+
+    public static void main(String[] args) {
+        System.out.println("Hola, garrosa!");
+    }
+}
